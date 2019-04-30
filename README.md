@@ -1,4 +1,4 @@
-# Eye-Diagrams-Digital-Communications
+# Eye Diagrams-Digital Communications
 Plot eye diagrams for BPSK and 4-PAM modulation techniques with and without AWGN 
 
 #### <Transmit.m>
