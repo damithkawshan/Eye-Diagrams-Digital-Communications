@@ -3,6 +3,8 @@ Plot eye diagrams for BPSK and 4-PAM modulation techniques with and without AWGN
 
 #### <Transmit.m>
 
+pulse shaping with three different filters and return 3 corrresponding transmit streams.
+
 ##### This matlab function requires input arguments:
       1. encoded_data  => modulated data stream (ex: BPSK modulated binary bit stream)
       2. len           => length of the bit stream
