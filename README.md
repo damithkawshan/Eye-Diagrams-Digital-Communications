@@ -28,6 +28,18 @@ main script. intialize parameters and plot data.
 ![Eye diagram with alpha=1](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig3.jpg)
 ###### with AWGN
 
-![Eye diagram with Sinc filter](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/Eye_sinc_AWGN.jpg)
-![Eye diagram with alpha=0.5](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/Eye_Rcos5_AWGN.jpg)
-![Eye diagram with alpha=1](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/Eye_Rcos1_AWGN.jpg)
+![FIG](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig4.jpg)
+![FIG](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig5.jpg)
+![FIG](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig6.jpg)
+
+##### 4-PAM
+###### without AWGN 
+![Eye diagram with Sinc filter](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig7.jpg)
+![Eye diagram with alpha=0.5](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig8.jpg)
+![Eye diagram with alpha=1](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig9.jpg)
+###### with AWGN
+
+![FIG](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig10.jpg)
+![FIG](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig11.jpg)
+![FIG](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig12.jpg)
+
