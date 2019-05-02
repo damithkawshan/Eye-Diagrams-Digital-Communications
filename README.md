@@ -21,12 +21,12 @@ pulse shaping with three different filters and return 3 corrresponding transmit 
 main script. intialize parameters and plot data.
 
 #### results
-##### without AWGN 
-![Eye diagram with Sinc filter](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/Eye_sinc.jpg)
-![Eye diagram with alpha=0.5](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/Eye_Rcos5.jpg)
-![Eye diagram with alpha=1](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/Eye_Rcos1.jpg)
-
-##### with AWGN
+##### BPSK
+###### without AWGN 
+![Eye diagram with Sinc filter](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig1.jpg)
+![Eye diagram with alpha=0.5](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig2.jpg)
+![Eye diagram with alpha=1](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/figures/fig3.jpg)
+###### with AWGN
 
 ![Eye diagram with Sinc filter](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/Eye_sinc_AWGN.jpg)
 ![Eye diagram with alpha=0.5](https://github.com/damithkawshan/Eye-Diagrams-Digital-Communications/blob/master/Eye_Rcos5_AWGN.jpg)
