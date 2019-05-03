@@ -36,9 +36,11 @@ Tx_Rcos1=conv(upsampled_data,Rcos1);
 
 
 % taking only the first 10000 samples 
-Tx_sinc = Tx_sinc([1:10000]);
-Tx_Rcos5 = Tx_Rcos5([1:10000]);
-Tx_Rcos1 = Tx_Rcos1([1:10000]);
+d_len=len*fs;
+
+Tx_sinc = Tx_sinc([1:d_len]);
+Tx_Rcos5 = Tx_Rcos5([1:d_len]);
+Tx_Rcos1 = Tx_Rcos1([1:d_len]);
 
 Tx_data=[Tx_sinc;Tx_Rcos5;Tx_Rcos1];
 
