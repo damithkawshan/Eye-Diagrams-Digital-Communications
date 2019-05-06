@@ -6,7 +6,7 @@ clc
 %%
 %input parameters
 len=1000;%length of the bit stream
-fs=100; %sampling frequency in Hz
+fs=12; %sampling frequency in Hz
 
 %%
 %generate bit_stream
